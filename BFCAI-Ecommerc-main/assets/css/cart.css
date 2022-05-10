@@ -1,0 +1,208 @@
+.shopping_cart
+{
+    padding: 20px 0px;
+}
+.shopping_cart .shopping_heading 
+{
+    margin-bottom: 30px;
+
+}
+.shopping_cart .shopping_heading h2
+{
+    color: #222;
+    font-weight: 500;
+    text-transform: capitalize;
+    font-size: 28px;
+}
+
+.shopping_cart .checkout_header
+{
+    background-color: #f5f5f5;
+    padding: 15px 10px;
+}
+.shopping_cart .checkout_header .h1
+{
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #222;
+    font-size: 20px;
+    border-bottom: 1px solid #e3d5d5;
+    width: 92%;
+    padding: 7px 0px;
+    margin: auto;
+}
+
+.shopping_cart .checkout_header ul
+{
+    width: 92%;
+    margin: auto;
+}
+.shopping_cart .checkout_header li 
+{
+    position: relative;
+    margin-bottom: 10px;
+    padding: 8px 0px;
+    border-bottom: 1px solid #e3d5d5;
+ 
+
+}
+.shopping_cart .checkout_header li p
+{
+    display: inline-block;
+    font-weight: 400;
+    font-size: 15px;
+    color: #979899;
+    width: 67%;
+}
+.shopping_cart .checkout_header li .price
+{
+    position: absolute;
+    right: 0px;
+    color: #979899;
+    font-size: 14px;
+}
+
+.shopping_cart .checkout_header li .price.bold
+{
+    font-weight: 600;
+}
+.shopping_cart .checkout_header button
+{
+    width: 92%;
+    display: inline;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.shopping_cart .checkout_header button .btn-lg
+{
+    padding: 0px;
+}
+.shopping_cart .checkout_header a
+{
+    margin: 15px auto;
+    font-size: 13px;
+    text-align: center;
+    display: block;
+
+}
+
+.shopping_cart .checkout_header button span
+{
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 400;
+}
+
+.shopping_cart .shopping_card_header
+{
+
+    padding: 16px 8px;
+    border-top: 1px solid #c7c7c7;
+}
+
+.shopping_cart .shopping_card_header span
+{
+    color: #888888;
+    font-weight: 500;
+    font-size: 14px;
+}
+.shopping_cart .shopping_card_header span.Price
+{
+
+}
+.shopping_cart .shopping_card_header span.Qty
+{
+
+}
+.shopping_cart .shopping_card_header span.Subtotal
+{
+    
+}
+
+.shopping_cart  .shopping_card_content
+{
+    padding: 22px 20px;
+    /* background-color: red; */
+    border-bottom: 1px solid #d3d3d3;
+    height: 160px;
+    border-top: 3px solid #c7c7c7;
+}
+.shopping_cart  .shopping_card_content p
+{
+    color: #888;
+    font-weight: 500;
+    font-size: 16px;
+}
+.shopping_cart  .shopping_card_content  input 
+{
+    padding: 3px 5px;
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    color: #888;
+}
+.shopping_cart  .shopping_card_content  .img
+{
+    width: 100px;
+    height: 100px;
+}
+.shopping_cart  .shopping_card_content .img img
+{
+    width: 100%;
+    height: 100%;
+}
+
+.shopping_cart  .shopping_card_content ul
+{
+ 
+}
+
+.shopping_cart  .shopping_card_content ul li 
+{
+    margin: 10px 0px;
+    color: #888;
+}
+.shopping_cart  .shopping_card_content ul li a
+{
+    font-size: 14px;
+    color: black;
+}
+.shopping_cart  .shopping_card_content ul li a:hover 
+{
+    color: #0d6efd;
+}
+
+.shopping_cart  .shopping_card_content ul li span.spanproduct
+{
+
+    font-size: 13px;
+
+    color: #888;
+}
+.shopping_cart  .shopping_card_content ul li span.brand
+{
+
+    font-size: 13px;
+    font-weight: 500;
+    color: #888;
+}
+
+
+.shopping_cart .shopping_card_footer
+{
+    padding: 20px;
+}
+.shopping_cart .shopping_card_footer ul
+{
+
+}
+.shopping_cart .shopping_card_footer ul li 
+{
+    display: inline-block;
+    margin-right: 15px;
+}
+.shopping_cart .shopping_card_footer ul li  button
+{
+    background-color: #f1eeee;
+    border: 1px solid #d3d1d1;
+}
